@@ -1,83 +1,109 @@
-<h1 align="center">Hi 👋, I'm Nitheesh</h1>
-<h3 align="center">A Frontend Developer Enthusiast with a Passion for Deep Learning & Intelligent Systems</h3>
+<div align="center">
+
+# 📑 Nitheesh // Neural Research Lab  
+### Deep Learning Researcher & Systems Architect  
+
+**Status:** `Analyzing Self-Attention Dynamics`  
+**Focus:** `Transformers • Computer Vision • Small Language Models`
+
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="420"/>
 
 ---
 
-### 🚀 About Me
-- 🔬 Currently diving deep into **Machine Learning**, with a strong focus on **Deep Learning architectures** and real-world implementation using **PyTorch**
-- 🧠 Enthusiastically exploring **Advanced DL models** including **CNNs**, **Transformers**, and **RNNs**
-- 💡 Passionate about solving problems using code — from frontend UIs to the inner mechanics of **AI algorithms**
-- 💬 I enjoy talking about **JavaScript**, **Next-gen ML algorithms**, **Neural Net theories**, and anything **PyTorch**
-- 📫 Feel free to reach out: **enitheeshkumar@gmail.com**
+*"The objective function of my career is to minimize the gap between theory and implementation."*
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.instagram.com/nitheesh_dev?igsh=mmx2cgo5mwpndzf2" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitheesh_dev" height="30" width="40" />
-  </a>
-</p>
+## 🧠 Neural Research Dashboard
+
+| 🔬 Research Vision | 🛰️ Experimental Focus |
+|-------------------|------------------------|
+| I treat neural network training as a controlled scientific experiment. My work centers on understanding **how learning emerges from data** and how architectures can be engineered to be **efficient, stable, and interpretable**. <br><br> I study what happens inside the `forward()` and `backward()` passes of every layer before trusting abstractions. | - Small Language Models (SLMs) <br> - Transformer efficiency & memory optimization <br> - CNN-based image understanding <br> - Reinforcement learning stability <br> - Parameter & GPU memory analysis |
 
 ---
 
-### 🛠️ Frontend Development Stack
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" />
-  </a>
-</p>
+## 🔬 Research Interests Grid
+
+| 🧪 Domain | 🌌 Focus Area |
+|----------|---------------|
+| Deep Neural Networks | Optimization dynamics & gradient flow |
+| Computer Vision | CNNs for image understanding |
+| Transformers | Attention mechanisms & sequence modeling |
+| Language Models | LLMs & token embeddings |
+| Representation Learning | Feature extraction |
+| Reinforcement Learning | Adaptive agents & stability |
 
 ---
 
-### 🧠 Machine Learning & Deep Learning Toolkit
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-</p>
+## 🧪 Technical Stack (Research-Oriented)
+
+| 🧬 Languages & Libraries | 📐 Core ML Concepts |
+|-------------------------|--------------------|
+| Python <br> PyTorch <br> NumPy <br> Scikit-learn <br> Matplotlib | Linear Algebra & Probability <br> Backpropagation & Gradient Descent <br> Loss functions & optimizers <br> Regularization & generalization <br> Tokenization & embeddings <br> Model evaluation & metrics |
 
 ---
 
-### 📚 Deep Learning Focus
-I'm currently exploring:
-- 🤖 Neural networks using **PyTorch**
-- 🧠 Large Language Models (LLMs) & Transformers like **BERT**, **GPT**
-- 📷 Convolutional Neural Networks for **Image Processing**
-- 🎮 Reinforcement Learning & self-adaptive agents
+## 🧠 Theory vs 🧑‍🔬 Practice
+
+| 🧠 Theory | 🧑‍🔬 Practice |
+|----------|-------------|
+| Studying Transformer internals (self-attention, multi-head attention) <br><br> Exploring reinforcement learning fundamentals <br><br> Understanding model scaling & efficiency | Implementing neural networks from scratch in PyTorch <br><br> Training small-scale LLMs for experimental research <br><br> Image classification using CNNs <br><br> Analyzing model size, parameters, and GPU memory usage |
 
 ---
 
-### ⚡ Fun Fact
-> _"Mastering neural nets one silent epoch at a time."_
+<div align="center">
 
+## 🛠️ Laboratory Instruments
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Hybrid Interface (5% MERN)
+
+</div>
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 Network
+
+📧 **enitheeshkumar@gmail.com**  
+🌐 **@nitheesh_dev**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Research Maxim
+
+*"Build from scratch. Understand deeply. Optimize relentlessly."*
+
+</div>
